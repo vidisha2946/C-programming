@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main() {
+void  main() {
     int number, originalNumber, reversedNumber = 0;
     printf("Enter a number: ");
     scanf("%d", &number);
