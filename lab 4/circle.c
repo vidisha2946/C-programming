@@ -1,5 +1,6 @@
 #include <stdio.h>
-void main() {
+void main() 
+{
     float radius;
     printf("Enter the radius of the circle: ");
     scanf("%f", &radius);
